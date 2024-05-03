@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-36:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.connecting_laddakh.app-main-38:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-36:/drawable-xxxhdpi_car.png.flat",
+        "source": "com.connecting_laddakh.app-main-38:/drawable-xxxhdpi/car.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-36:/mipmap-ldpi_ic_launcher.png.flat",
+        "source": "com.connecting_laddakh.app-main-38:/mipmap-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-36:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.connecting_laddakh.app-main-38:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-36:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.connecting_laddakh.app-main-38:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-36:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.connecting_laddakh.app-main-38:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-36:/drawable-xhdpi_car.png.flat",
+        "source": "com.connecting_laddakh.app-main-38:/drawable-xhdpi/car.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-36:/drawable-hdpi_car.png.flat",
+        "source": "com.connecting_laddakh.app-main-38:/drawable-hdpi/car.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.connecting_laddakh.app-main-38:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.connecting_laddakh.app-main-38:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-36:/layout_launch_screen.xml.flat",
+        "source": "com.connecting_laddakh.app-main-38:/layout/launch_screen.xml"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-36:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.connecting_laddakh.app-main-38:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-36:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.connecting_laddakh.app-main-38:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-36:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.connecting_laddakh.app-main-38:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-36:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.connecting_laddakh.app-main-38:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-36:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.connecting_laddakh.app-main-38:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-36:/drawable-mdpi_car.png.flat",
+        "source": "com.connecting_laddakh.app-main-38:/drawable-mdpi/car.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.connecting_laddakh.app-main-38:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-36:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.connecting_laddakh.app-main-38:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-36:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.connecting_laddakh.app-main-38:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-36:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.connecting_laddakh.app-main-38:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-36:/drawable-xxhdpi_car.png.flat",
+        "source": "com.connecting_laddakh.app-main-38:/drawable-xxhdpi/car.png"
+    }
+]

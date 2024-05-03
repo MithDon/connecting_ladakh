@@ -1,0 +1,230 @@
+[
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.connecting_laddakh.app-main-35:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-34:/drawable-mdpi_assets_imgs_ios.png.flat",
+        "source": "com.connecting_laddakh.app-res-29:/drawable-mdpi/assets_imgs_ios.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-34:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.connecting_laddakh.app-res-29:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-34:/drawable-mdpi_node_modules_reactnativepaper_src_assets_backchevron.png.flat",
+        "source": "com.connecting_laddakh.app-res-29:/drawable-mdpi/node_modules_reactnativepaper_src_assets_backchevron.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-34:/drawable-mdpi_assets_imgs_font_ico_drawer.png.flat",
+        "source": "com.connecting_laddakh.app-res-29:/drawable-mdpi/assets_imgs_font_ico_drawer.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.connecting_laddakh.app-main-35:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-34:/drawable-mdpi_src_assets_logo.png.flat",
+        "source": "com.connecting_laddakh.app-res-29:/drawable-mdpi/src_assets_logo.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-34:/drawable-xxxhdpi_car.png.flat",
+        "source": "com.connecting_laddakh.app-main-35:/drawable-xxxhdpi/car.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-34:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.connecting_laddakh.app-main-35:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-34:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.connecting_laddakh.app-main-35:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-34:/drawable-hdpi_car.png.flat",
+        "source": "com.connecting_laddakh.app-main-35:/drawable-hdpi/car.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-34:/drawable-xxxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "com.connecting_laddakh.app-res-29:/drawable-xxxhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-34:/drawable-xxhdpi_car.png.flat",
+        "source": "com.connecting_laddakh.app-main-35:/drawable-xxhdpi/car.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-34:/drawable-mdpi_node_modules_reactnative_libraries_newappscreen_components_logo.png.flat",
+        "source": "com.connecting_laddakh.app-res-29:/drawable-mdpi/node_modules_reactnative_libraries_newappscreen_components_logo.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-34:/drawable-mdpi_src_assets_rsz_1car.jpg.flat",
+        "source": "com.connecting_laddakh.app-res-29:/drawable-mdpi/src_assets_rsz_1car.jpg"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-34:/drawable-xxhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "com.connecting_laddakh.app-res-29:/drawable-xxhdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-34:/drawable-xhdpi_src_assets_logo.png.flat",
+        "source": "com.connecting_laddakh.app-res-29:/drawable-xhdpi/src_assets_logo.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-34:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.connecting_laddakh.app-res-29:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-34:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.connecting_laddakh.app-main-35:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-34:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.connecting_laddakh.app-main-35:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-34:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.connecting_laddakh.app-res-29:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-34:/drawable-mdpi_node_modules_reactnavigation_stack_src_views_assets_backiconmask.png.flat",
+        "source": "com.connecting_laddakh.app-res-29:/drawable-mdpi/node_modules_reactnavigation_stack_src_views_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-34:/drawable-xhdpi_src_assets_arrow_back.png.flat",
+        "source": "com.connecting_laddakh.app-res-29:/drawable-xhdpi/src_assets_arrow_back.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-34:/drawable-mdpi_assets_imgs_meta.png.flat",
+        "source": "com.connecting_laddakh.app-res-29:/drawable-mdpi/assets_imgs_meta.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-34:/drawable-mdpi_node_modules_reactnativeelementdropdown_src_assets_down.png.flat",
+        "source": "com.connecting_laddakh.app-res-29:/drawable-mdpi/node_modules_reactnativeelementdropdown_src_assets_down.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-34:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.connecting_laddakh.app-main-35:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-34:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.connecting_laddakh.app-res-29:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-34:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.connecting_laddakh.app-res-29:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-34:/drawable-mdpi_assets_imgs_one_way_cab.png.flat",
+        "source": "com.connecting_laddakh.app-res-29:/drawable-mdpi/assets_imgs_one_way_cab.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-34:/drawable-mdpi_node_modules_reactnativeelementdropdown_src_assets_close.png.flat",
+        "source": "com.connecting_laddakh.app-res-29:/drawable-mdpi/node_modules_reactnativeelementdropdown_src_assets_close.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-34:/drawable-mdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "com.connecting_laddakh.app-res-29:/drawable-mdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-34:/layout_launch_screen.xml.flat",
+        "source": "com.connecting_laddakh.app-main-35:/layout/launch_screen.xml"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-34:/drawable-mdpi_src_assets_arrow_back.png.flat",
+        "source": "com.connecting_laddakh.app-res-29:/drawable-mdpi/src_assets_arrow_back.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-34:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.connecting_laddakh.app-main-35:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-34:/drawable-xhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "com.connecting_laddakh.app-res-29:/drawable-xhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-34:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.connecting_laddakh.app-main-35:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-34:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.connecting_laddakh.app-main-35:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-34:/drawable-hdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "com.connecting_laddakh.app-res-29:/drawable-hdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-34:/drawable-xhdpi_car.png.flat",
+        "source": "com.connecting_laddakh.app-main-35:/drawable-xhdpi/car.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-34:/drawable-mdpi_src_assets_top_bg.png.flat",
+        "source": "com.connecting_laddakh.app-res-29:/drawable-mdpi/src_assets_top_bg.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-34:/mipmap-ldpi_ic_launcher.png.flat",
+        "source": "com.connecting_laddakh.app-main-35:/mipmap-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-34:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.connecting_laddakh.app-main-35:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-34:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.connecting_laddakh.app-main-35:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-34:/drawable-mdpi_src_assets_background_dot.png.flat",
+        "source": "com.connecting_laddakh.app-res-29:/drawable-mdpi/src_assets_background_dot.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.connecting_laddakh.app-main-35:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-34:/drawable-mdpi_car.png.flat",
+        "source": "com.connecting_laddakh.app-main-35:/drawable-mdpi/car.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-34:/drawable-mdpi_assets_imgs_google.png.flat",
+        "source": "com.connecting_laddakh.app-res-29:/drawable-mdpi/assets_imgs_google.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-34:/drawable-xhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "com.connecting_laddakh.app-res-29:/drawable-xhdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-34:/drawable-mdpi_src_assets_background.png.flat",
+        "source": "com.connecting_laddakh.app-res-29:/drawable-mdpi/src_assets_background.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-34:/drawable-mdpi_assets_imgs_font_ico_chat.png.flat",
+        "source": "com.connecting_laddakh.app-res-29:/drawable-mdpi/assets_imgs_font_ico_chat.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-34:/drawable-mdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "com.connecting_laddakh.app-res-29:/drawable-mdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-34:/drawable-xxxhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "com.connecting_laddakh.app-res-29:/drawable-xxxhdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-34:/drawable-hdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "com.connecting_laddakh.app-res-29:/drawable-hdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-34:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.connecting_laddakh.app-main-35:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-34:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.connecting_laddakh.app-main-35:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-34:/drawable-xxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "com.connecting_laddakh.app-res-29:/drawable-xxhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "com.connecting_laddakh.app-merged_res-34:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.connecting_laddakh.app-res-29:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    }
+]
